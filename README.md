@@ -1,6 +1,5 @@
 # Pedro Mariano
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+guys!)](https://git.io/typing-svg)
-Me chamo Pedro Henrique Mariano, sou <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+guys!)](https://git.io/typing-svg)<br>Me chamo Pedro Henrique Mariano, sou <br>
 formado em Análise e Desenvolvimento de sistemas pela unicarioca,sempre bsucando aprimorar e conhecer novas tecnologias.<br>
 Atualmente busco por uma oportunidade como<br>
 desenvolvedor e ingressar de vez no mundo dev.
