@@ -1,20 +1,44 @@
-# Pedro Mariano
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+guys!)](https://git.io/typing-svg)<br>Me chamo Pedro Henrique Mariano, sou <br>
-formado em Análise e Desenvolvimento de sistemas pela unicarioca,sempre bsucando aprimorar e conhecer novas tecnologias.<br>
-Atualmente busco por uma oportunidade como<br>
-desenvolvedor e ingressar de vez no mundo dev.
+# 👋 Olá, eu sou Pedro Mariano
 
+💻 Desenvolvedor Mobile Full Stack  
+📱 React Native | Expo | TypeScript  
+🚀 Focado em aplicações mobile e soluções práticas  
 
-### Linkedin 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-06192B?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-henrique-mariano-17a809127/)
+---
 
-### Algumas tecnologias que tenho conhecimento 
-![JavaScript](https://img.shields.io/badge/JavaScript-010431?style=for-the-badge&logo=javascript)
+## 🧠 Tecnologias
 
-![React](https://img.shields.io/badge/React-010431?style=for-the-badge&logo=react)
+- React Native
+- Expo
+- TypeScript
+- JavaScript
+- Node.js
+- Git / GitHub
+- AsyncStorage
+- React Navigation
 
-![CSS3](https://img.shields.io/badge/CSS3-010431?style=for-the-badge&logo=css3&logoColor=264CE4)
+---
 
+## 📱 Projetos em destaque
 
-### Git stats
-![Git](https://github-readme-stats.vercel.app/api?username=pedro-mariano-silva&theme=algolia&bg_color=010431&border_color=30A3DC&show_icons=true&icon_color=FF4800&title_color=E94D5F&text_color=)
+### 💊 AlertMed
+Aplicativo para controle de horários de medicação  
+Tecnologias: React Native, Expo, TypeScript  
+
+👉 https://github.com/pedro-mariano-silva/alertmed
+
+---
+
+## 🎯 Objetivo
+
+Atualmente estou atuando como suporte técnico e estou em transição para desenvolvimento mobile full stack, criando aplicações reais para portfólio.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/pedro-h-mariano/
+- Email: pedro_mariano.silva@outlook.com
+
+---
+
