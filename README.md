@@ -23,7 +23,7 @@
 
 ### 🏋🏻‍♂️ PntoFit
 Aplicativo voltado para profisisonais de educação física
-para controle e gestão de alunos.
+<p>para controle e gestão de alunos.
 Tecnologias: React Native, Expo, TypeScript  
 
 
