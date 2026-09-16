@@ -24,6 +24,8 @@
 ### 🏋🏻‍♂️ PntoFit
 Aplicativo voltado para profisisonais de educação física
 para controle e gestão de alunos.
+Tecnologias: React Native, Expo, TypeScript  
+
 
 👉 https://github.com/pedro-mariano-silva/pontofit.git
 
