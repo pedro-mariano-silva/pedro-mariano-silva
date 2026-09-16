@@ -21,6 +21,13 @@
 
 ## 📱 Projetos em destaque
 
+### 🏋🏻‍♂️ PntoFit
+Aplicativo voltado para profisisonais de educação física
+para controle e gestão de alunos.
+
+👉 https://github.com/pedro-mariano-silva/pontofit.git
+
+
 ### 💊 AlertMed
 Aplicativo para controle de horários de medicação  
 Tecnologias: React Native, Expo, TypeScript  
